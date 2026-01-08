@@ -83,6 +83,7 @@ del_thumb - 𝖙ᴏ 𝖉ᴇʟᴇᴛᴇ 𝖞ᴏᴜʀ 𝖈ᴜ𝖘ᴛᴏᴍ 𝖙ʜ�
 set_caption - Sᴇᴛ A Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ !!
 see_caption - Sᴇᴇ Yᴏᴜʀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ !!
 del_caption - Dᴇʟᴇᴛᴇ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ !!
+autorename - Set Custom Format (auto renaming process) 
 restart - ᴛᴏ ʀᴇsᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴀɴᴅ sᴇɴᴅ ᴍᴇssᴀɢᴇ ᴀʟʟ ᴅʙ ᴜsᴇʀs (Aᴅᴍɪɴ Oɴʟʏ)
 ban - ban members using command (admin only)
 unban - unban members using command (admin only)
@@ -101,7 +102,7 @@ broadcast - Sᴇɴᴅ Mᴇssᴀɢᴇ Tᴏ Aʟʟ Usᴇʀs (Aᴅᴍɪɴ Oɴʟʏ)
 
 ## ❣️ Special Thanks 👍
 
-- Thanks To RknDeveloper For His Awesome [Digital-Rename-Bot](https://github.com/RknDeveloper/Digital-Rename-Bot.git)
+- Thanks To RknDeveloper For His Awesome [Digital-Rename-Bot](https://github.com/DigitalBotz/Digital-Auto-Rename-Bot)
 - Thanks To [RknDeveloper](https://github.com/RknDeveloper) who have edited and modified this repo as now it is. (It's me 😂)
 - Thanks To [JayMahakal](https://github.com/JayMahakal98) who have edited and modified this repo as now it is.
 - Thanks To Rkn Developer Teams ✅ (Edit & New Feature Added)
